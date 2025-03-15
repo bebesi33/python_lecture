@@ -14,8 +14,10 @@ def load_emails() -> dict[str, str]:
         print(f"An error occurred while reading the file: {e}")
     return emails
 
+
 def process_emails(emails: dict[str, str]) -> set[str]:
     return set(emails.values())
+
 
 if __name__ == "__main__":
     emails = load_emails()
