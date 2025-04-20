@@ -1,0 +1,1 @@
+Összetett (garbage) példa a (garbage2) tesztelés végrehajtásához. /Remélem kimaradt a garbage szó az előző mondtaból./
