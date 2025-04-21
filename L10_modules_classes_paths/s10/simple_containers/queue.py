@@ -21,4 +21,7 @@ class Queue(CustomContainer):
         return len(self._queue)
 
     def __str__(self):
-        return f"Queue({list(self._queue)})"
+        if self.is_empty():
+            return "Empty Queue"
+        else:
+            return f"""Queue({''.join([str(c) for c in list(self._queue)])})"""

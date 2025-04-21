@@ -1,3 +1,3 @@
-Összetett (garbage) példa a (garbage2) tesztelés végrehajtásához. 
-/Remélem kimaradt a garbage szó az előző mondtaból./
+Összetett (garbage(garbage)) példa a (garbage2(garbage2(garbage2))) (garbage2) tesztelés végrehajtásához. 
+/Remélem kimaradt a garbage szó az előző mondatból./
 Random szöveg
