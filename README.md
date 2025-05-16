@@ -31,4 +31,9 @@ Ensure you have the following available:
 <li> Jupyter Notebook or JupyterLab  </li>
 
 <li> Required Python packages (listed in requirements.txt)  </li>
-<p>Please note that the students and the teacher used Visual Studio Code during the lectures.</p>
+
+<h4>Prerequisites</h4>
+<p>Please note that the students and the teacher used Visual Studio Code during the lectures.
+<br> The course material is mostly in Hungarian, and the folder structure is self-explanatory.
+<br> The "zh1" and "zh2" subfolders contain the exam materials, while "szorgalmi" contains non-compulsory home work.
+</p>
