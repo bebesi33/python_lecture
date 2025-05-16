@@ -31,3 +31,4 @@ Ensure you have the following available:
 <li> Jupyter Notebook or JupyterLab  </li>
 
 <li> Required Python packages (listed in requirements.txt)  </li>
+<p>Please note that the students and the teacher used Visual Studio Code during the lectures.</p>
