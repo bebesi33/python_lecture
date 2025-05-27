@@ -32,7 +32,7 @@ Ensure you have the following available:
 
 <li> Required Python packages (listed in requirements.txt)  </li>
 
-<h4>Prerequisites</h4>
+<h4>Additional Notes</h4>
 <p>Please note that the students and the teacher used Visual Studio Code during the lectures.
 <br> The course material is mostly in Hungarian, and the folder structure is self-explanatory.
 <br> The "zh1" and "zh2" subfolders contain the exam materials, while "szorgalmi" contains non-compulsory homework.
