@@ -1,0 +1,11 @@
+1. OOP background
+2. OOP example - Animal, Owner, Pet, Cat
+    syntax
+    inheritance and constructors
+    method definitions
+    notes on enums
+3. OOP 4 principles - identification of examples in the Cat class
+4. Additional topics:
+    Setters/getters
+    Class level methods and attributes
+    Static methods for utility functions
