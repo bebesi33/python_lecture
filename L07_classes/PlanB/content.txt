@@ -9,3 +9,4 @@
     Setters/getters
     Class level methods and attributes
     Static methods for utility functions
+    Dataclasses in Python
